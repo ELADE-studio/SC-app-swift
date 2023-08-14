@@ -14,6 +14,7 @@
 		AB8F77292A8A9DAA00D74119 /* SC_app_swiftTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB8F77282A8A9DAA00D74119 /* SC_app_swiftTests.swift */; };
 		AB8F77332A8A9DAA00D74119 /* SC_app_swiftUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB8F77322A8A9DAA00D74119 /* SC_app_swiftUITests.swift */; };
 		AB8F77352A8A9DAA00D74119 /* SC_app_swiftUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB8F77342A8A9DAA00D74119 /* SC_app_swiftUITestsLaunchTests.swift */; };
+		AB8F77422A8AA23200D74119 /* logo-drk.svg in Resources */ = {isa = PBXBuildFile; fileRef = AB8F77412A8AA23200D74119 /* logo-drk.svg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		AB8F772E2A8A9DAA00D74119 /* SC-app-swiftUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "SC-app-swiftUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		AB8F77322A8A9DAA00D74119 /* SC_app_swiftUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SC_app_swiftUITests.swift; sourceTree = "<group>"; };
 		AB8F77342A8A9DAA00D74119 /* SC_app_swiftUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SC_app_swiftUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		AB8F77412A8AA23200D74119 /* logo-drk.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = "logo-drk.svg"; path = "../../starter-kit-app/src/img/logo-drk.svg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 				AB8F77182A8A9DA900D74119 /* ContentView.swift */,
 				AB8F771A2A8A9DAA00D74119 /* Assets.xcassets */,
 				AB8F771F2A8A9DAA00D74119 /* SC_app_swift.entitlements */,
+				AB8F77412A8AA23200D74119 /* logo-drk.svg */,
 				AB8F771C2A8A9DAA00D74119 /* Preview Content */,
 			);
 			path = "SC-app-swift";
@@ -235,6 +238,7 @@
 			files = (
 				AB8F771E2A8A9DAA00D74119 /* Preview Assets.xcassets in Resources */,
 				AB8F771B2A8A9DAA00D74119 /* Assets.xcassets in Resources */,
+				AB8F77422A8AA23200D74119 /* logo-drk.svg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
